@@ -1,0 +1,7 @@
+@media(max-width:320px){
+    main.card .tabs-informations .informations .social-midias li{
+        width: 180px;
+        display: flex;
+        justify-content: center;
+    }
+}
